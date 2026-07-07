@@ -1,0 +1,1 @@
+// Run postgres docker db before running java.
